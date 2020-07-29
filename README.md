@@ -1,4 +1,5 @@
-# ICC-T20-World-Cup-2020-Win-Predictor
+# ICC-T20-World-Cup-2020-Win-Predictor                                                                                       
+![](image.jpg)
 
 A predictor model using Random Forests to predict the result of fixtures of the T20 World Cup 2020.
 The prediction inputs taken are - 
